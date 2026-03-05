@@ -22,7 +22,6 @@ console.log(`Your id: ${userId}, username: ${fullName}, account activated: ${isA
 console.log(fullName.split(" "));
 console.log(fullName.toUpperCase());
 console.log(fullName.toLowerCase());
-<<<<<<< HEAD
 
 
 
@@ -31,5 +30,3 @@ function display(): void {
     
 }
 display();
-=======
->>>>>>> 1040317e451c1e6491dd1e9dad08681882ceee34

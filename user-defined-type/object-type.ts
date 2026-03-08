@@ -1,24 +1,19 @@
-let users: object[];
+// let users: object[];
 
-users = [];
+// users = [];
 
-let user1: { userName: string; userId: number };
-user1 = { userName: "Arman", userId: 165 };
-users.push(user1);
+// let user1: { userName: string; userId: number };
+// user1 = { userName: "Arman", userId: 165 };
+// users.push(user1);
 
-// console.log(users);
+// // console.log(users);
 
-let user2: { userName: string; userId: number };
-user2 = { userName: "Mir", userId: 155 };
-users.push(user2);
+// let user2: { userName: string; userId: number };
+// user2 = { userName: "Mir", userId: 155 };
+// users.push(user2);
 
-// console.log(users);
+// // console.log(users);
 
-for (const key in users) {
-    
-    console.log(users[key]["userName"]);
-    
-    
-}
-
-
+// for (const key in users) {
+//   console.log(users[key]["userName"]);
+// }
